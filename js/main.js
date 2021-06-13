@@ -1,0 +1,1 @@
+function formSubmit(){document.forms.myForm.fname.value+"@"+document.forms.myForm.lname.value==document.forms.myForm.password.value?alert("Success"):alert("Error")}
